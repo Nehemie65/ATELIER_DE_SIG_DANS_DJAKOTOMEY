@@ -1,0 +1,1 @@
+var json_Drapeau_30 = {"type":"FeatureCollection","name":"Drapeau_30","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","id":null,"Nom":null},"geometry":{"type":"Point","coordinates":[1.714835926499764,6.906955330616177]}}]}
